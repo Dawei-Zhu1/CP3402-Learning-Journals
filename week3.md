@@ -31,16 +31,20 @@ for example, to **r**ead, **w**rite, **e**xecute, **ch**ange **mod**e of the fil
 
 In this course, I found our video is outdated, since some key resources listed in slides are unavailable.
 I applied an AWS server, I attempted to set up some of the necessary components (EC2, Virtual Machine
-router table and security group). I can open the virtual machine running on AWS Linux and have tried
-creating/overwriting an HTML
+router table and security group).
+I can open the virtual machine running on AWS Linux and have tried creating/overwriting an HTML
 containing "Hello World" into its /var/www/html with this command:
 
 ```bash
 <h1>Hello from Dawei\'s Web Server!</h1></html>" > /var/www/html/index.html
 ```
 
-I can also accomplish it via the SFTP protocol.
+I still remember that when I used the command line for the first time, I felt very uneasy and strange. 
+The reason for these feelings is that I was used to using the graphical interface before. 
+But all along, my way to overcome such kind of uncertainty is to discover the unknown actively.
+So I learned to use CLI by reading Linux's manual and W3C.
+In addition, I found that the use of CLI is very conducive to automation, 
+because all commands are entered by ascii characters, 
+which makes it easy and efficient to implement operations through scripts.
 
-To avoid having connectivity issue due to unforeseen natural disasters, such as the cyclone in last trimester, 
-I installed XAMPP on my laptop.
 

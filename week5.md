@@ -40,4 +40,6 @@ I had to look up the elements' tag names and styles
 of the current theme in my browser's page inspector.
 In some other cases, the styles I change might conflict with the parent theme's styles and they would not work.
 
-In my opinion, creating and using child themes, while they do accelerate web development, is like dancing in shackles. Dancers still need to be experienced in order to perform beautifully.
+In my opinion, creating and using child themes, while they do accelerate web development, 
+is like dancing in shackles. Dancers still need to be experienced in order to perform beautifully. 
+Just like I still need to learn the ways to use CMS.

@@ -1,4 +1,4 @@
-# Week 5 - Project/client introduction, group project management
+# Week 6 - Project/client introduction, group project management
 
 ## Learning Activities & Resources
 

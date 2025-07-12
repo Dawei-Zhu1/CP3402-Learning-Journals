@@ -21,7 +21,7 @@ which should not exceed 15 minutes.
 
 ## Career/Employability/Learning Insights
 
-In IT project development, daily stand-up meeting is essential. I am fully aware of the importance of daily standup meetings.
+In IT project development, daily stand-up meeting is essential. It allows the project manager to keep track of progress, so he can make arrangements that help the team get the job done. I am fully aware of the importance of daily standup meetings.
 
 Previously, I learned about design thinking that we also need daily standup meetings. 
 However, due to the absence of core team members, we can only held the meeting weekly.

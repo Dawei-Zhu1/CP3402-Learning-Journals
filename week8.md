@@ -11,7 +11,7 @@ Here are the resources I used to help me understand how to collaborate using Git
 
 ## Content Insights
 
-Version control is essential in collaborative development. This week, we used **Git** and **GitHub** to manage our
+Version control is essential in collaborative development. This week, we used Git and GitHub to manage our
 WordPress theme project. We created a shared repository and each team member cloned it locally. By using branches,
 commits, and pull requests, we could contribute our parts to the group work efficiently.
 
